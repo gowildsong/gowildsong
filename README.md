@@ -3,7 +3,7 @@
 - I’m currently learning Web Development and Machine Learning.
 - I’m looking to collaborate on different projects that can enhance my skillset. 
 - My email address is songwenjie710@outlook.com, feel free to reach out!
-- Pronouns: she/hers
+- Pronouns: she/her
 - Fun fact: Also a big fan of K-pop and CrossFit, which the two things seem unrelated ...
 
 <!---
